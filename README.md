@@ -8,6 +8,7 @@ University of the Incarnate Word
 <h1> Projects </h1>
 <table>
   <tr>
+    <td> <img scr=> </td>
     <td> Project Image </td> <td> Project Description</td>
   </tr>
 
